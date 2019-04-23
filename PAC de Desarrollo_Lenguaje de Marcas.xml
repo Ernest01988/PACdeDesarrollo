@@ -19,10 +19,12 @@
     	<link>https://www.lasprovincias.es/</link>
     	<description>Todo sobre las noticias de la provincia de Valencia</description>
     </item>
-        <title>Noticias de Malaga</title>
-        <link>https://www.laopiniondemalaga.es/malaga/</link>
-        <description>Todo lo relacionado con la provincia de Malaga</description>
     <item>
+      <title>Noticias de Malaga</title>
+      <link>https://www.laopiniondemalaga.es/malaga/</link>
+      <description>Todo lo relacionado con la provincia de Malaga</description>
+     </item>
+     <item>
     	<title>Noticias de Leon</title>
     	<link>https://www.leonoticias.com/comarcas/</link>
     	<description>Todo sobre las noticias de la provincia de Leon</description>
