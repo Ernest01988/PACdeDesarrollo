@@ -1,4 +1,4 @@
-<!DOCTYPE html SYSTEM "http://www.w3.org/TR/xhtmll/DTD/xhtmll-transitional.dtd">
+
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
     </head>
