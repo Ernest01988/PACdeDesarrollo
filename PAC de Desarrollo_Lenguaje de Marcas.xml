@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version ="2.0">
+ <channel>
+   <title>PAC de Desarrollo</title> 
+    <link>https://github.com/Ernest01988/PAC_de_desarrollo.git</link>
+    <description>Noticias de actualidad de varias provincias</description>
+    <item> 
+    	<title>Noticias de Mallorca</title>
+    	<link>https://www.ultimahora.es/noticias.html</link>
+    	<description>Todo sobre las noticias mas recientes en Mallorca</description>
+    </item>
+    <item>
+    	<title>Noticias de Las Palmas</title>
+    	<link>https://www.laprovincia.es/</link>
+    	<description>Todo lo relacionado con la provincia de Las Palmas</description>
+    </item>
+    <item>
+    	<title>Noticias de Valencia</title>
+    	<link>https://www.lasprovincias.es/</link>
+    	<description>Todo sobre las noticias de la provincia de Valencia</description>
+    </item>
+        <title>Noticias de Cuenca</title>
+        <link>http://www.lasnoticiasdecuenca.es/provincia</link>
+        <description>Todo lo relacionado con la provincia de Cuenca</description>
+    <item>
+    	<title>Noticias de Leon</title>
+    	<link>https://www.leonoticias.com/comarcas/</link>
+    	<description>Todo sobre las noticias de la provincia de Leon</description>
+    </item>
+  </channel>
+</rss>
