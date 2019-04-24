@@ -2,7 +2,7 @@
     <head>
     </head>
     <body>
-        <h1>Pac de Desarrollo de Lenguaje de Marcas</h1>
+        <h1>PAC de Desarrollo de Lenguaje de Marcas</h1>
          <a href="PAC de Desarrollo_Lenguaje de Marcas.xml"> Mi canal de RSS</a>
     </body>
 </html>
